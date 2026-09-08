@@ -2,7 +2,7 @@
 
 **Автор:** Павел Наседкин  
 **Учёная степень:** Кандидат технических наук (2025)  
-**Контакты:** Email: name@example.com | Telegram: @username
+**Контакты:** Email: sff1971@gmail.com | Email: pol_nasedkin@mail.ru | Telegram: @sff1971
 
 ---
 
