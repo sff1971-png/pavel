@@ -20,6 +20,9 @@
 
 ## 📄 Технический отчёт
 [Скачать PDF](./report.pdf)
+[Скачать PDF](./report1.pdf)
+[Скачать PDF](./report2.pdf)
+[Скачать PDF](./report3.pdf)
 
 ## 🔧 Скрипты
 - [create-ou.ps1](./scripts/create-ou.ps1) — создание организационных единиц
