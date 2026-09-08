@@ -25,7 +25,11 @@
   - Количество инцидентов ИБ
 
 ##  Технический отчёт
-[Скачать PDF](./report.pdf)
+[Скачать PDF](./report1.pdf)
+
+[Скачать PDF](./report2.pdf)
+
+[Скачать PDF](./report3.pdf)
 
 ## 📊 Материалы
 - [risk-assessment.xlsx](./docs/risk-assessment.xlsx) — расчёты ALE, CBA
